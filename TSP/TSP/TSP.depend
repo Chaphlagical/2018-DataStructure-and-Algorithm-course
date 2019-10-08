@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544713441 source:/home/chaf/Program/C++/TSP/TSP/TSP.cpp
+	"TSP.h"
+
+1544717243 /home/chaf/Program/C++/TSP/TSP/TSP.h
+	<iostream>
+	<ctime>
+
+1544713441 source:/home/chaf/Program/C++/TSP/TSP/main.cpp
+	"TSP.h"
+

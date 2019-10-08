@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1539690372 source:/home/chaf/Program/C++/Polynomial/main.cpp
+	<string.h>
+	<iostream>
+	"Polynomial.h"
+
+1539687804 /home/chaf/Program/C++/Polynomial/Polynomial.h
+	<iostream>
+	<cmath>
+
+1539690404 source:/home/chaf/Program/C++/Polynomial/Polynomial.cpp
+	"Polynomial.h"
+
+1539073489 source:/home/chaf/Program/C++/Polynomial/listdebug.cpp
+	<stdio.h>
+	<stdlib.h>
+

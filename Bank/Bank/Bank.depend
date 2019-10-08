@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1540898615 source:/home/chaf/Program/C++/Bank/Bank/bank.cpp
+	"bank.h"
+
+1540893049 /home/chaf/Program/C++/Bank/Bank/bank.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1540893049 source:/home/chaf/Program/C++/Bank/Bank/main.cpp
+	"bank.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1544275009 source:/home/chaf/Program/C++/Sort/Sort/main.cpp
+	"Sort.h"
+
+1542262730 /home/chaf/Program/C++/Sort/Sort/Sort.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1544274727 source:/home/chaf/Program/C++/Sort/Sort/Sort.cpp
+	"Sort.h"
+

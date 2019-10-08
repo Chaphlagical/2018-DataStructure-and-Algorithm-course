@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542209082 source:/home/chaf/Program/C++/Railway/Railway/main.cpp
+	"Railway.h"
+
+1542188179 /home/chaf/Program/C++/Railway/Railway/Railway.h
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+
+1542186332 source:/home/chaf/Program/C++/Railway/Railway/Railway.cpp
+	"Railway.h"
+

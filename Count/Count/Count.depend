@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1544766589 source:/home/chaf/Program/C++/Count/Count/count.cpp
+	"count.h"
+
+1544766995 /home/chaf/Program/C++/Count/Count/count.h
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstring>
+	<ctime>
+
+1544766589 source:/home/chaf/Program/C++/Count/Count/main.cpp
+	"count.h"
+
